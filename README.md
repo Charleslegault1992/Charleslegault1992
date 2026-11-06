@@ -60,7 +60,7 @@ Le code source principal est privé, mais le jeu est accessible en ligne.
 
 ## 💻 Autres projets
 
-### 🎓 [Académie Backend](https://github.com/Charleslegault1992/academie-backend)
+### 🎓 [Académie en ligne](https://github.com/bleeband/academie-en-ligne)
 
 API backend développée pour une plateforme de cours en ligne de type mini-Moodle.
 
