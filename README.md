@@ -70,13 +70,11 @@ Le projet comprend entre autres l'inscription et la connexion des utilisateurs, 
 
 ---
 
-### 🌳 [Arbreal](https://github.com/Charleslegault1992/arbreal)
+### 🌳 [Arbres de Montréal](https://github.com/E26-DA1B/arbres-de-montreal)
 
-Application qui permet de visualiser sur une carte des données d'arbres publics de Montréal.
+Application de bureau réalisée en équipe pour explorer et gérer des données sur les arbres publics de Montréal.
 
-Les données CSV sont traitées dans l'application, converties en données géographiques et affichées sur une carte interactive.
-
-**Stack :** `Vue 3` · `Tauri 2` · `Vite` · `MapLibre GL` · `Papa Parse`
+**Stack :** `Vue 3` · `JavaScript` · `Tauri 2` · `Rust` · `MapLibre GL` · `Vite`
 
 ---
 
